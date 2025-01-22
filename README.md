@@ -5,8 +5,8 @@ Driven by a desire to innovate, I aim to contribute to impactful projects that e
 I thrive in collaborative environments and am motivated to grow continuously, with a special interest in startups and open-source communities.
 
 ## 🚀 Quick Facts
-- 🔭 I’m currently working on: [TuProyecto] ([TecnologíasUsadas])
-- 🌱 I’m currently learning: [Tecnologías que estás aprendiendo]
+- 🔭 I’m currently working on: Cebreterra ([Flutter](https://flutter.dev))  
+- 🌱 I’m currently learning: [Flutter](https://flutter.dev), [Go](https://golang.org) 
 - 🎮 Hobbies other than coding: Playing basketball 🏀, single-player videogames 🎮, thinking about writing stories or a blog ✍️
 - 📫 How to reach me: sergiogmv18@gmail.com
 - 📄 Resume: [Enlace a tu CV]
@@ -31,7 +31,7 @@ I thrive in collaborative environments and am motivated to grow continuously, wi
 
 
 ## 🌐 Socials
-[![LinkedIn](https://www.linkedin.com/in/sergio-giovanny-marcano-villahermosa-15a6861a2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-giovanny-marcano-villahermosa-15a6861a2/)
 
 ---
 
