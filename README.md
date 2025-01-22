@@ -9,7 +9,7 @@ I thrive in collaborative environments and am motivated to grow continuously, wi
 - 🌱 I’m currently learning: [Flutter](https://flutter.dev), [Go](https://golang.org) 
 - 🎮 Hobbies other than coding: Playing basketball 🏀, single-player videogames 🎮, thinking about writing stories or a blog ✍️
 - 📫 How to reach me: sergiogmv18@gmail.com
-- 📄 Resume: [Enlace a tu CV]
+- 📄 Resume: [CV](http://sergiomarcano.globalvisionprojects.online/Curriculum.pdf).
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
